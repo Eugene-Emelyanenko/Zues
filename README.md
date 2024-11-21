@@ -1,2 +1,2 @@
 # Zues
- Simple 2D undie game
+ Simple 2D indie game
